@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Manseez 👋
 
 ### 🚀 Who am I?
 I am a **Python Developer and Data Scientist** with a passion for building scalable backends and extracting meaningful stories from data. I bridge the gap between technical complexity and client-facing strategy—translating "code" into "business value."
